@@ -54,5 +54,6 @@ Length extended so rubber bands don't fall under the pin while loading
 Tip of the pin is tapered to make it easier to install
 The base of the pin has a increased thickness so the pin can be inserted to refusal and be sticking out the right amount on each side
 
+The only part that needs support is the wheel. I used a brim on the pin and the bolt so they were stuck to the plate a litte better.
 
 
